@@ -12,3 +12,15 @@ pom.xml:
     </repositories>
 ```
 
+##oschina 
+will be fast in national
+
+```xml
+<repositories>
+	<repository>
+		<id>qinwei-maven-release-repository</id>
+		<url>http://git.oschina.net/chinesetiger/maven-repo/raw/release/</url>
+	</repository>
+</repositories>
+```
+
