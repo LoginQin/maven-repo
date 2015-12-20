@@ -13,7 +13,7 @@ pom.xml:
 ```
 
 ##oschina 
-will be fast in national
+国内访问会更迅速, gihub经常失败
 
 ```xml
 <repositories>
