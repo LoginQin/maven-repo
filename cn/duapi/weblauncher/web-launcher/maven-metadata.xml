@@ -3,10 +3,11 @@
   <groupId>cn.duapi.weblauncher</groupId>
   <artifactId>web-launcher</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>1.0</release>
     <versions>
       <version>0.0.1</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20151220064330</lastUpdated>
+    <lastUpdated>20160205084343</lastUpdated>
   </versioning>
 </metadata>
